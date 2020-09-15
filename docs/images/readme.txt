@@ -1,1 +1,0 @@
-This is where the images for Readthedocs will be stored.

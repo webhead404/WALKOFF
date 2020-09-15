@@ -1,9 +1,0 @@
-aiohttp
-pyyaml
-asteval
-cryptography
-six
-tenacity
-python-socketio
-requests
-websocket-client
