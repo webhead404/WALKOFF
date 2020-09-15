@@ -1,6 +1,6 @@
 # Use the Walkoff App SDK as a base image
 #FROM python:3.7.4-slim-buster as base
-FROM frikky/shuffle:app_sdk
+FROM frikky/shuffle:app_sdk as base
 # Stage - Install/build Python dependencies
 FROM base as builder
 
